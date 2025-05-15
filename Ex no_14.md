@@ -13,7 +13,7 @@ To write a C program to delete first element in an array.
 
 ## Program:
 ```
-/*
+
 #include<stdio.h> 
 int main()
 {
@@ -26,7 +26,7 @@ scanf("%d",&a[i]);
 for(i=1;i<n;i++) 
 printf("%d ",a[i]);
 }
-*/
+
 ```
 
 ## Output:
