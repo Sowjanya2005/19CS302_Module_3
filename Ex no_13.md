@@ -14,7 +14,7 @@ To write a C program to read the elements and print only the odd elements in the
 
 ## Program:
 ```
-/*
+
 #include<stdio.h> 
 int main()
 {
@@ -39,7 +39,7 @@ printf("\n");
 }
 return 0;
 }
-*/
+
 ```
 
 ## Output:
