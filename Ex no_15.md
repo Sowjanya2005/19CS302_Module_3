@@ -14,7 +14,6 @@ To write a C program that reads a one-dimensional array of integers and replaces
 
 ## Program:
 ```
-/*
 
 #include <stdio.h>
 int main() {
@@ -32,7 +31,7 @@ int main() {
  printf("\n");
  return 0;
 }  
-*/
+
 ```
 
 ## Output:
