@@ -1,5 +1,5 @@
 # EX 13 To write a C program to read the elements and print only the odd elements in the 2D array.
-## DATE: 05-04-2025
+## DATE: 20-03-2025
 ## AIM:
 To write a C program to read the elements and print only the odd elements in the 2D array.
 
